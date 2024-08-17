@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.hero {
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.services h3,
+.testimonials h2,
+.contact h2 {
+    margin-bottom: 20px;
+}
+
+.testimonials img {
+    width: 100px;
+    height: 100px;
+}
+
+.php-email-form .form-control {
+    margin-bottom: 15px;
+}
+
+.php-email-form .btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.php-email-form .btn-primary:hover {
+    background-color: #0056b3;
+}
